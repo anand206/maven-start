@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< anab.works:maven-start >-----------------------
+[INFO] Building maven-start 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ maven-start ---
+[INFO] anab.works:maven-start:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.9:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.074 s
+[INFO] Finished at: 2019-07-26T15:30:41+05:30
+[INFO] ------------------------------------------------------------------------
